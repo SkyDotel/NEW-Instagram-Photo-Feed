@@ -1,3 +1,3 @@
 # NEW-Instagram-Photo-Feed
 
-NEW and ENHANCED Instagram Photo Feed
+NEW Instagram Photo Feed
